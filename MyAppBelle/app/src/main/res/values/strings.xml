@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAppBelle</string>
+    <string name="detail">Detail</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="hint">Masukkan username</string>
+</resources>
